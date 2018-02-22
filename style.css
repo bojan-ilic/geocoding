@@ -1,0 +1,58 @@
+#wrapper {
+    width: 45%;
+    margin: 50px auto;
+    padding: 20px;
+    background: #efffe0;
+}
+.mapForm {
+    width: 70%;
+    margin: 20px auto;
+}
+form div {
+    margin: 3px auto;
+}
+.textInput {
+    margin-top: 2px;
+    height: 28px;
+    border: 1px solid #5e6e66;
+    font-size: 16px;
+    padding: 1px;
+    width: 100%;
+}
+.val_error {
+    color: #ff1f1f;
+}
+#map {
+    width: 500px;
+    height: 400px;
+    margin: 0 auto;
+}
+.details {
+    width: 800px;
+    margin: 0 auto;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+.button {
+    background-color: #ff5050;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
